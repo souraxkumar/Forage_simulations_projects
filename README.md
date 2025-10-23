@@ -7,19 +7,19 @@ This repository demonstrates how I’ve applied **data-driven decision-making, b
 
 ## 🧩 Projects Included
 
-### 1️⃣ PwC – Power BI Data Analytics Virtual Experience
-**Skills:** Data Cleaning | Dashboard Design | Data-Driven Insights  
-**Tools:** Power BI, Excel  
-**Description:**  
-Built interactive dashboards for a client’s business data, analyzed KPIs, and presented insights to drive executive decision-making.
+### 1️⃣ Deloitte Australia – Data Analytics Job Simulation (Forage)
+Skills: Data Analysis | Data Classification | Insight Generation
+Tools: Tableau, Excel
+Description:
+Completed a Deloitte virtual job simulation focused on data analytics and forensic technology. Built a data dashboard in Tableau, classified datasets in Excel, and derived actionable business insights to support data-driven decision-making.
 
 ---
 
-### 2️⃣ KPMG – Data Analytics Consulting
-**Skills:** Data Quality Analysis | Customer Segmentation | Storytelling with Data  
-**Tools:** Excel, Python (Pandas), PowerPoint  
-**Description:**  
-Cleaned and validated client data, performed segmentation analysis, and presented actionable recommendations for improving marketing ROI.
+### 2️⃣Siemens Mobility – Commercial Project Management Virtual Experience
+Skills: Financial Analysis | Risk Assessment | Project Forecasting
+Tools: Excel, Work Breakdown Structure (WBS), KPI Dashboards
+Description:
+Completed a job simulation managing a $100M+ light rail extension project. Analyzed project performance using WBS and KPIs to identify risks and opportunities, calculated Estimate at Completion (EAC) for cost forecasting, and delivered a stakeholder report with financial insights and strategic recommendations.
 
 ---
 

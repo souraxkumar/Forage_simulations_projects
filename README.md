@@ -55,6 +55,33 @@ Proposed a digital strategy roadmap, analyzed process inefficiencies, and develo
 - Problem Solving & Critical Decision Making  
 - Power BI, Excel, Python, PowerPoint  
 
+
+---
+
+## 👋 About Me
+
+Hi, I'm **Sourabh Kumar** — an **MBA candidate specializing in Business Analytics** passionate about transforming data into actionable business insights.  
+
+I’ve completed multiple **Forage Virtual Experience Programs** with top firms like **PwC, KPMG, Accenture, JPMorgan Chase, and BCG**, where I practiced solving **real-world business problems** using data analytics, visualization, and strategy frameworks.
+
+💡 Focus Areas:
+- Data Analytics & Visualization (Power BI, Excel, Python)
+- Business Strategy & Decision Making
+- Storytelling with Data for Management Impact
+
+---
+
+## 📬 Connect with Me
+
+**Email:** [sourabhkumar@example.com](mailto:sourabhkumar@example.com)  
+**LinkedIn:** [https://www.linkedin.com/in/sourabhkumar](https://www.linkedin.com/in/sourabhkumar)  
+**GitHub:** [https://github.com/sourabhkumar](https://github.com/sourabhkumar)
+
+---
+
+## 🪪 License
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 ## 📂 Repository Structure

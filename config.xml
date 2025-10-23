@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <name>MBA-Analytics-Forage-Simulations</name>
+    <description>
+        This repository showcases my completed Forage Virtual Experience Programs,
+        reflecting my applied learning in Business Analytics, Consulting, and Data-Driven Decision Making.
+    </description>
+
+    <author>
+        <name>Sourabh Kumar</name>
+        <email>sourabhkumar@example.com</email>
+    </author>
+
+    <version>1.0.0</version>
+
+    <technologies>
+        <technology>Excel</technology>
+        <technology>Power BI</technology>
+        <technology>Python</technology>
+        <technology>Data Visualization</technology>
+        <technology>Business Analytics</technology>
+        <technology>Consulting Frameworks</technology>
+    </technologies>
+
+    <simulations>
+        <simulation>
+            <company>PWC</company>
+            <role>Power BI Data Analytics Virtual Experience</role>
+            <skills>Data Cleaning, Dashboard Design, Insight Communication</skills>
+        </simulation>
+
+        <simulation>
+            <company>KPMG</company>
+            <role>Data Analytics Consulting Virtual Internship</role>
+            <skills>Data Quality Analysis, Customer Segmentation, Business Recommendation</skills>
+        </simulation>
+
+        <simulation>
+            <company>Accenture</company>
+            <role>Strategy Consulting Virtual Experience</role>
+            <skills>Market Research, Business Strategy, Client Communication</skills>
+        </simulation>
+
+        <simulation>
+            <company>JPMorgan Chase</company>
+            <role>Excel & Investment Banking Analytics Simulation</role>
+            <skills>Financial Modelling, Excel Automation, Business Valuation</skills>
+        </simulation>
+
+        <simulation>
+            <company>BCG</company>
+            <role>Digital Transformation Virtual Experience</role>
+            <skills>Process Optimization, Analytical Thinking, Consulting Approach</skills>
+        </simulation>
+    </simulations>
+
+    <repository>
+        <url>https://github.com/sourabhkumar/MBA-Analytics-Forage-Simulations</url>
+        <license>MIT</license>
+        <visibility>public</visibility>
+    </repository>
+</project>
